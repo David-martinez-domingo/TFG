@@ -14,6 +14,7 @@ Si bien es cierto que en la actualidad existen propuestas comerciales como Googl
 El vídeo, como forma de expresión y comunicación, presenta una serie de desafíos adicionales en comparación con las imágenes estáticas. La información contenida en un vídeo no se limita únicamente a los fotogramas individuales, sino que también abarca elementos temporales, como la secuencia de imágenes, el movimiento, el audio y otros aspectos dinámicos. Por lo tanto, el diseño de sistemas de recuperación de información para contenido de vídeo implica una complejidad adicional en la captura y búsqueda de contenido relevante.
 A pesar de los avances significativos en el campo de la inteligencia artificial y el procesamiento de imágenes y vídeo, aún queda un largo camino por recorrer para alcanzar soluciones robustas en la recuperación de contenido de vídeo.
 </p>
+
 ## Objetivo
 <p align="justify">
 El objetivo del proyecto se centra en la expansión y adaptación de modelos relevantes para la descripción de imágenes al contexto del vídeo, empleando técnicas de segmentación que permitan el análisis de escenas de manera individualizada. En este contexto, el propósito general es desarrollar módulos integrados en el marco de las JMR (Java Multimedia Retrieval©) para la descripción de vídeos, así como métricas que permitan la realización de consultas basadas en dichos descriptores visuales.
