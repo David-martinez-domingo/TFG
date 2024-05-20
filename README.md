@@ -23,15 +23,19 @@ El objetivo del proyecto se centra en la expansión y adaptación de modelos rel
 Para alcanzar este propósito general, se han establecido una serie de objetivos específicos:
 </p>
 <p align="justify">
+  
 * Análisis de soluciones para la segmentación de vídeo y extracción de escenas: Se llevará a cabo una revisión exhaustiva de las soluciones existentes en el ámbito de la segmentación de vídeo, con el fin de identificar las metodologías más adecuadas para la extracción de escenas. Este análisis incluirá la evaluación de algoritmos y técnicas utilizadas en la segmentación de vídeos, considerando factores como la eficiencia computacional y la precisión en la identificación de escenas relevantes, también llamadas keyframes.
 </p>
 <p align="justify">
+  
 * Desarrollo de descriptores visuales para vídeo basados en contenido: Se procederá al diseño y desarrollo de descriptores visuales específicamente adaptados para el análisis de contenido en vídeos. Estos descriptores deberán capturar características semánticas y estructurales de las escenas, permitiendo una representación eficaz del contenido visual mostrado en el vídeo. 
 </p>
 <p align="justify">
+  
 * Integración de los descriptores desarrollados en la biblioteca JMR (Java Multimedia Retrieval©) de software libre: Se trabajará en la integración de los descriptores visuales desarrollados en el marco de la biblioteca JMR. Esta integración facilitará la utilización y adaptación de dichos descriptores con el resto de componentes de la biblioteca.
 </p>
 <p align="justify">
+  
 * Implementación de un prototipo CBIR de recuperación de vídeo basado en lo desarrollado para los objetivos anteriores: Se llevará a cabo la implementación de un prototipo de sistema de recuperación de información basado en contenido visual (CBIR) para vídeos, haciendo uso de los descriptores visuales y las métricas desarrolladas en los objetivos anteriores. Este prototipo permitirá realizar consultas de búsqueda de vídeos similares a partir de características visuales específicas, demostrando la eficacia y la utilidad práctica de los módulos desarrollados en el proyecto.
 </p>
 <p align="justify">
